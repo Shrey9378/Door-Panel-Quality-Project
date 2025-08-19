@@ -43,7 +43,8 @@ Prepared a mini PPAP package for supplier approval.
 
 📄 Project Files
 
-📕 Final_Door_Panel_Project.pdf
+📕 [Download Full Report (PDF)](./Final_Door_Panel_Project.pdf)
+
 
 Learnings & Impact
 
@@ -56,4 +57,5 @@ Gained hands-on exposure to building structured quality documentation.
 Author
 
 👤 Prepared by Shrey
+
 🚀 Open to Automotive Quality Engineering & Process Improvement roles

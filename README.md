@@ -43,7 +43,7 @@ Prepared a mini PPAP package for supplier approval.
 
 📄 Project Files
 
-📕 Download Full Report  (PDF)
+📕 Final_Door_Panel_Project.pdf
 
 Learnings & Impact
 

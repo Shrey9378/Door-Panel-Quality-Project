@@ -6,39 +6,49 @@ The study applies core quality tools following IATF 16949 and APQP framework.
 Contents
 
 📊 Descriptive Statistics & Box Plot Analysis
-
+![Descriptive Statistics](./descriptive_statistics.png)
+![Box Plot](./box_plot.png)
 
 
 📉 Pareto Analysis
+![Pareto Chart](./pareto_chart.png)
 
 
 
 📈 Control Charts (U-Chart)
+![U-Chart](./u_chart.png)
 
 
 🧪 ANOVA (Analysis of Variance)
 
 
+
 🔧 Gage R&R Study (Measurement System Analysis)
+![Gage R&R](./gage_rr.png)
 
 
 ⚠️ FMEA (Failure Mode and Effects Analysis)
-![Fishbone Diagram](./figures/fishbone.png)
+![FMEA](./fmea_table.png)
 
 📑 Control Plan
+
 
 
 ✅ PPAP Documentation
 
 📏 Process Capability Analysis
+![Process Capability](./process_capability.png)
 
 🎯 DOE (Design of Experiments)
 DOE – Main Effects Plot
-![DOE Main Effects](./figures/doe_main_effects.png)
+![DOE Main Effects](./doe_main_effects.png)
 
 
 DOE – Interaction Plot
-![DOE Interaction](./figures/doe_interaction.png)
+![DOE Interaction](./doe_interaction.png)
+
+### Fishbone Diagram
+![Fishbone Diagram](./figures/fishbone.png)
 
 Tools Used
 

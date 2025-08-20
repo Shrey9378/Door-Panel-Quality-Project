@@ -120,7 +120,7 @@ DOE – Interaction Plot
 
 ## 📄 Project Files
 
-📕 [Download Full Report (PDF)](./Final_Door_Panel_Project 1.pdf)
+📕 [Download Full Report (PDF)](./Final_Report.pdf)
 
 
 ## Learnings & Impact

@@ -10,11 +10,11 @@ Contents
 
 
 📉 Pareto Analysis
-<img width="600" height="284" alt="image" src="https://github.com/user-attachments/assets/40ad0f99-1cbb-478c-ac2c-ed5ea27202e3" />
+
 
 
 📈 Control Charts (U-Chart)
-![U-Chart](./figures/u_chart.png)
+
 
 🧪 ANOVA (Analysis of Variance)
 

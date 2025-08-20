@@ -50,16 +50,16 @@ Contents
 
 ### 🎯 DOE (Design of Experiments)
 
-### DOE – Main Effects Plot
+DOE – Main Effects Plot
 
 ![DOE Main Effects](./doe_main_effects.png)
 
 
-### DOE – Interaction Plot
+DOE – Interaction Plot
 
 ![DOE Interaction](./doe_interaction.png)
 
-### Fishbone Diagram
+### 🐟 Fishbone Diagram
 
 ![Fishbone Diagram](./figures/fishbone.png)
 

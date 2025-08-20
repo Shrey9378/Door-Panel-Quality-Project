@@ -7,23 +7,38 @@ Contents
 
 📊 Descriptive Statistics & Box Plot Analysis
 
+
+
 📉 Pareto Analysis
+<img width="600" height="284" alt="image" src="https://github.com/user-attachments/assets/40ad0f99-1cbb-478c-ac2c-ed5ea27202e3" />
+
 
 📈 Control Charts (U-Chart)
+![U-Chart](./figures/u_chart.png)
 
 🧪 ANOVA (Analysis of Variance)
 
+
 🔧 Gage R&R Study (Measurement System Analysis)
 
+
 ⚠️ FMEA (Failure Mode and Effects Analysis)
+![Fishbone Diagram](./figures/fishbone.png)
 
 📑 Control Plan
+
 
 ✅ PPAP Documentation
 
 📏 Process Capability Analysis
 
 🎯 DOE (Design of Experiments)
+### DOE – Main Effects Plot
+![DOE Main Effects](./figures/doe_main_effects.png)
+
+
+### DOE – Interaction Plot
+![DOE Interaction](./figures/doe_interaction.png)
 
 Tools Used
 

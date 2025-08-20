@@ -1,9 +1,9 @@
-Door Panel Quality Project 🚗
+# Door Panel Quality Project 🚗
 
 This project demonstrates a full Quality Engineering Analysis of a door panel rework problem in the automotive industry.
 The study applies core quality tools following IATF 16949 and APQP framework.
 
-Contents
+## Contents
 
 ### 📊 Descriptive Statistics & Box Plot Analysis
 
@@ -28,6 +28,9 @@ Contents
 
 
 ### 🧪 ANOVA (Analysis of Variance)
+
+
+![ANOVA](./Anova.png)
 
 
 

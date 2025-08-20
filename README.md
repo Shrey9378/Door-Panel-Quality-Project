@@ -82,38 +82,38 @@ DOE – Interaction Plot
 ![Fishbone Diagram](./fishbone.png)
 
 
-### Tools Used
+## Tools Used
 
-Minitab for statistical analysis
+- **Minitab** for statistical analysis
 
-Excel for dataset preparation
+- **Excel** for dataset preparation
 
-### Key Takeaways
+## Key Takeaways
 
-Identified major root causes of door panel rework (scratches, loose fasteners, wiring).
+- Identified major root causes of door panel rework (scratches, loose fasteners, wiring).
 
-Confirmed measurement system reliability with Gage R&R.
+- Confirmed measurement system reliability with Gage R&R.
 
-Built a Control Plan & FMEA to prevent failures.
+- Built a Control Plan & FMEA to prevent failures.
 
-Prepared a mini PPAP package for supplier approval.
+- Prepared a mini PPAP package for supplier approval.
 
 
-### 📄 Project Files
+## 📄 Project Files
 
 📕 [Download Full Report (PDF)](./Final_Door_Panel_Project.pdf)
 
 
-### Learnings & Impact
+## Learnings & Impact
 
-Strengthened ability to apply APQP & IATF 16949 in real-world projects.
+- Strengthened ability to apply APQP & IATF 16949 in real-world projects.
 
-Improved skills in statistical tools (Minitab, Excel).
+- Improved skills in statistical tools (Minitab, Excel).
 
-Gained hands-on exposure to building structured quality documentation.
+- Gained hands-on exposure to building structured quality documentation.
 
 
-### Author
+## Author
 
 👤 Prepared by Shrey
 

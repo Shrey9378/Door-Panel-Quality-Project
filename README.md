@@ -7,6 +7,7 @@ Contents
 
 ### 📊 Descriptive Statistics & Box Plot Analysis
 
+
 ![Descriptive Statistics](./descriptive_statistics.png)
 
 
@@ -22,6 +23,7 @@ Contents
 
 ### 📈 Control Charts (U-Chart)
 
+
 ![U-Chart](./u_chart.png)
 
 
@@ -31,38 +33,51 @@ Contents
 
 ### 🔧 Gage R&R Study (Measurement System Analysis)
 
+
 ![Gage R&R](./gage_rr.png)
 
 
 ### ⚠️ FMEA (Failure Mode and Effects Analysis)
 
+
 ![FMEA](./fmea_table.png)
 
+
 ### 📑 Control Plan
+
 
 ![Control Plan](./control_plan.png)
 
 
 ### ✅ PPAP Documentation
 
+
 ### 📏 Process Capability Analysis
+
 
 ![Process Capability](./process_capability.png)
 
+
 ### 🎯 DOE (Design of Experiments)
 
+
 DOE – Main Effects Plot
+
 
 ![DOE Main Effects](./doe_main_effects.png)
 
 
 DOE – Interaction Plot
 
+
 ![DOE Interaction](./doe_interaction.png)
+
 
 ### 🐟 Fishbone Diagram
 
-![Fishbone Diagram](./figures/fishbone.png)
+
+![Fishbone Diagram](./fishbone.png)
+
 
 ### Tools Used
 
@@ -70,7 +85,7 @@ Minitab for statistical analysis
 
 Excel for dataset preparation
 
-Key Takeaways
+### Key Takeaways
 
 Identified major root causes of door panel rework (scratches, loose fasteners, wiring).
 
@@ -79,6 +94,7 @@ Confirmed measurement system reliability with Gage R&R.
 Built a Control Plan & FMEA to prevent failures.
 
 Prepared a mini PPAP package for supplier approval.
+
 
 ### 📄 Project Files
 
@@ -92,6 +108,7 @@ Strengthened ability to apply APQP & IATF 16949 in real-world projects.
 Improved skills in statistical tools (Minitab, Excel).
 
 Gained hands-on exposure to building structured quality documentation.
+
 
 ### Author
 

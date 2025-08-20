@@ -33,11 +33,11 @@ Contents
 📏 Process Capability Analysis
 
 🎯 DOE (Design of Experiments)
-### DOE – Main Effects Plot
+DOE – Main Effects Plot
 ![DOE Main Effects](./figures/doe_main_effects.png)
 
 
-### DOE – Interaction Plot
+DOE – Interaction Plot
 ![DOE Interaction](./figures/doe_interaction.png)
 
 Tools Used
